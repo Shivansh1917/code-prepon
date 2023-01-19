@@ -1,0 +1,38 @@
+{
+    "Electrical Digital" : {
+        "Branches" : ["Electrical Engineering", "Engineering Physics"],
+        "Test" : {
+            "Duration" : "75 minute",
+            "Platform" : "Hire Pro",
+            "Selection Test" : ["Aptitude Test","Profile Related"],
+            "Example of Question" : "Timing violations, Hold valuation, Sequential Circuit, Number system conversion, Finding noise margin"
+        },
+        "CGPA" : {
+            "6-7" : "0",
+            "7-8" : "0",
+            "8-9" : "2",
+            "9-10" : "2"
+        },
+        "Package" : {
+            "BTech" : "20.86 LPA",
+            "Dual" : "23.5 LPA"
+        },
+        "Interview" : {
+            "Rounds" : "2 Technical Round and 1 HR Round",
+            "Example Question" : [
+                "Questions were asked about projects and coursework mentioned in the resume",
+                "Questions on digital circuit, setup hold time, designiing a buffer, input output rates wiith constraints",
+                "Interest of profile, projects, extra curricular, general question about the company",
+                "Digital System, Digital IC Design, Verilog and Microprocessor"
+            ]
+        },
+        "Suggested CourseWork" : [
+            "Thorough with second and third year courses",
+            "Basic of electric machines, circuit theory and signal and system",
+            "Digital IC design is a must"
+        ],
+        "Preparation Material" : [
+            "Class Notes","Morris and Mano Book","Pariksha Online Test Series","Verilog"
+        ]
+    }
+}

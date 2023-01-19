@@ -7,6 +7,7 @@ import Company from './Pages/Company';
 
 // Imports Required
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+
 function App() {
   return (
     <Router>
